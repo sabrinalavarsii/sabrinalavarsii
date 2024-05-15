@@ -1,16 +1,14 @@
-### Hi there 👋
+### Boas Vindas ao Meu Perfil 🫀
 
-<!--
-**sabrinalavarsii/sabrinalavarsii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Sabrina V. Lavarsi
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou cursando meu último ano
+- Amo crianças
+- Minha comida favorita é strogonoff de frango
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📧
+
+sabrinalavarsi@gmail.com
+
+![](https://media1.tenor.com/m/dj9jxfUbDHAAAAAd/dog-smile-dog.gif)
