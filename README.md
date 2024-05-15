@@ -2,10 +2,8 @@
 
 Meu nome é Sabrina V. Lavarsi
 
-- Estou estudando na Alura
-- Estou cursando meu último ano
-- Amo crianças
-- Minha comida favorita é strogonoff de frango
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo no JavaScript
 
 ### Você pode entrar em contato comigo 📧
 
